@@ -1,3 +1,2 @@
-update "SNOWTEST"."dimcustomer"
-set isurban=true
-where id=0
+insert into "SNOWTEST"."dimcustomer"  ("primaryemail", "registrationdate", "name") 
+values ('asdf', 'Asf', 'shubhra')
