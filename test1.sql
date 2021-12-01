@@ -1,2 +1,2 @@
-insert into "SNOWTEST"."dimcustomer"  ("primaryemail", "registrationdate", "name") 
-values ('asdf', 'Asf', 'shubhra')
+insert into "SNOWTEST"."dimcustomer"  (primaryemail, registrationdate, name) 
+values ('asdf', 'Asf', 'test')
