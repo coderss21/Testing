@@ -1,2 +1,2 @@
 insert into "NEW"."dimcustomer"  (primaryemail, registrationdate, name) 
-values ('asdf', 'Asf', 'test')
+values ('sdf.com', '2055455', 'shubhra')
