@@ -1,0 +1,1 @@
+insert into publish.STUDENTS (id,name,age) values (99,'data',20)
