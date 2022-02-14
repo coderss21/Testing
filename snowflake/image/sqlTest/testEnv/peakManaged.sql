@@ -1,1 +1,0 @@
-insert into PUBLISH.EMPLOYEE (EMPLOYEEID, firstname, lastname, city) values (223,'test','data','Delhi')
