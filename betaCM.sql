@@ -1,0 +1,1 @@
+insert into PUBLISH.STUDENT (id,name) values (10,'harry')
