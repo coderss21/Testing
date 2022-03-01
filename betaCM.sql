@@ -1,1 +1,3 @@
-insert into PUBLISH.STUDENT (id,name) values (10,'harry')
+
+   
+insert into PUBLISH.student (id,name, address, age) values (1, 'testdata','Jaipur',1)
