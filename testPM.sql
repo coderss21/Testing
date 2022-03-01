@@ -1,1 +1,1 @@
-insert into PUBLISH.EMPLOYEE (EMPLOYEEID, firstname, lastname, city) values (223,'test','data','Delhi')
+insert into PUBLISH.student (id,name, address, age) values (1, 'mock','Delhi',20)
