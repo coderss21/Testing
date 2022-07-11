@@ -1,2 +1,2 @@
-insert into publish.dimcustomer (name,primaryemail,isstudent) values ('zcoders','gmail.com',false)
+insert into publish.dimcustomer (name,primaryemail,isstudent) values ('simon','ymail.com',false)
 
