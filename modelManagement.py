@@ -6,7 +6,7 @@ from mlflow import (log_artifacts, log_metric, log_param, set_experiment,
 
 modelName=None
 if __name__ == "__main__":
-    set_experiment(modelName)
+    set_experiment(os.getenv('modelName'))
     
     with start_run():
         # Log a parameter (key-value pair)
