@@ -10,5 +10,5 @@ while i <= 100:
           "g7RccM0ceSB5xhvNRV3ECTewqDrQX20W4FZtbidl5EgLT8opJYWhe1M20hQueJ6WrdzQjW9OWqc4SupLIYP1\n"
 "\w0eR1gHMUQiqIneS5lezf6s4T5o8olyU3PWyY2j8vPQeoIn5XDw9qdLJauq5WmM680sYlyB3U8QXOV1V1r4nbBcyLWID30n\n"
 "w52opCXfLVCugXgT9mgouvyQc46arEQERz2GSRlS1O4jnB3vqNOglUt0NHGXR2E83tQlWVJoHV52pfrnfvLiNRVnA4PLDYzmGqzLfzj\n", i,"times")
-    sleep(360)
+    time.sleep(360)
     i += 1
