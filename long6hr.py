@@ -1,3 +1,4 @@
+import time
 i = 1
 while i <= 100:
     print("Welcome 7GL6l4nJdnHtQx5O7awacX5PgYAyyefxhgAcdoAKvZYypax5uruoS4zZY\n"
