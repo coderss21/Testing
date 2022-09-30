@@ -1,3 +1,2 @@
-update "publish"."dimcustomer"
-set isurban=true
-where id=0
+insert into publish.dimcustomer (name,primaryemail,isstudent) values ('simon','ymail.com',false)
+
