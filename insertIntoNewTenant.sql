@@ -1,1 +1,1 @@
-insert into inputdemo.student('Rhea',1)
+insert into inputdemo.student values ('Rhea',1)
